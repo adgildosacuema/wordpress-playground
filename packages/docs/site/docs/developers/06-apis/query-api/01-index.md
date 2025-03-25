@@ -10,7 +10,7 @@ WordPress Playground exposes a simple API that you can use to configure the Play
 It works by passing configuration options as query parameters to the Playground URL. For example, to install the pendant theme, you would use the following URL:
 
 ```text
-https://playground.wordpress.net/?theme=pendant
+https://playground.wordpress.net/?networking=yes
 ```
 
 You can go ahead and try it out. The Playground will automatically install the theme and log you in as an admin. You may even embed this URL in your website using an `<iframe>` tag:
