@@ -16,7 +16,7 @@ https://playground.wordpress.net/?theme=pendant
 You can go ahead and try it out. The Playground will automatically install the theme and log you in as an admin. You may even embed this URL in your website using an `<iframe>` tag:
 
 ```html
-<iframe src="https://playground.wordpress.net/?theme=pendant"></iframe>
+<iframe src="https://playground.wordpress.net/??networking=yes"></iframe>
 ```
 
 ## Available options
